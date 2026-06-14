@@ -1,4 +1,4 @@
-# PostgreSQL Logical Replication with DDL Support
+# Logical Replication in PostgreSQL
 
 ## Overview
 
